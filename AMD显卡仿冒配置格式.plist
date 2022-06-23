@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DeviceProperties</key>
+	<dict>
+		<key>Add</key>
+		<dict>
+			<key>PciRoot(0x0)/Pci(0x1,0x0)/Pci(0x0,0x0)</key>
+			<dict>
+				<key>ATY,DeviceName</key>
+				<string>7790</string>
+				<key>ATY,EFIVersion</key>
+				<string>015.044.000.009.006291</string>
+				<key>ATY,EFIVersionE</key>
+				<string>113-C5870301-100</string>
+				<key>ATY,FamilyName</key>
+				<string>Radeon HD</string>
+				<key>ATY,Rom#</key>
+				<string>113-C5870301-100</string>
+				<key>device-id</key>
+				<data>XGY=</data>
+				<key>model</key>
+				<string>AMD Radeon HD 7790</string>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>
